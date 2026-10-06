@@ -1,0 +1,14 @@
+#int
+a=10
+#float
+b=10.2
+#complex
+c=7+5j
+#list
+l=[1,2,3,4]
+#tuple
+t=(1,2,3)
+#set
+s={1,2,3,4,5,6,}
+#string
+str=("10","20")

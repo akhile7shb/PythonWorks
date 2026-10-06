@@ -1,0 +1,4 @@
+def area(r):
+    print('area',3.14*(r**2))
+def perimeter(r):
+    print('perimeter',2*3.14*r)
